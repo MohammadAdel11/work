@@ -1,0 +1,1 @@
+ C:\\flutter-projects\\Herafi_1-1\\.dart_tool\\flutter_build\\6cad16ea331c5a43350693f83433c13a\\native_assets.yaml: 

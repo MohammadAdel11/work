@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645805877627",
+    "project_id": "herrfi-bd37c",
+    "storage_bucket": "herrfi-bd37c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645805877627:android:d376852d24de1fbf3575de",
+        "android_client_info": {
+          "package_name": "com.mohand.herafi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnIFfNa261GcvjtNgJnwNfCTVNTsuNRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

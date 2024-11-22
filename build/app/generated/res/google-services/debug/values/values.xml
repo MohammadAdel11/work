@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">645805877627</string>
+    <string name="google_api_key" translatable="false">AIzaSyALnIFfNa261GcvjtNgJnwNfCTVNTsuNRc</string>
+    <string name="google_app_id" translatable="false">1:645805877627:android:d376852d24de1fbf3575de</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALnIFfNa261GcvjtNgJnwNfCTVNTsuNRc</string>
+    <string name="google_storage_bucket" translatable="false">herrfi-bd37c.appspot.com</string>
+    <string name="project_id" translatable="false">herrfi-bd37c</string>
+</resources>
